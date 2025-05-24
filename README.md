@@ -1,2 +1,2 @@
 # tmp_12
-Nauka git hub do skasowania
+Nauka git hub i pliki z 24 maja
